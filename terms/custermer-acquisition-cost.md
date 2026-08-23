@@ -12,6 +12,11 @@ Customer Acquisition Cost (CAC) is the average cost a business incurs to acquire
 
 CAC = Total Sales and Marketing Costs / Number of New Customers Acquired
 
+## Why It Matters
+
+CAC is a key metric for evaluating the efficiency and scalability of customer acquisition. 
+It is commonly analyzed alongside Customer Lifetime Value (LTV) to assess unit economics.
+
 ## Example
 
 If a company spends $10,000 on sales and marketing and acquires 100 new customers, its CAC is $100.
@@ -32,3 +37,8 @@ If a company spends $10,000 on sales and marketing and acquires 100 new customer
 - Go-to-Market (GTM)
 - Performance Marketing
 - Unit Economics
+
+## References
+
+- [Source 1]
+- [Source 2]
